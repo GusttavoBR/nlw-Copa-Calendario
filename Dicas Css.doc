@@ -1,0 +1,7 @@
+link = chama o css no html
+background: Altera a cor do fundo;
+id = #id
+classe = .classe
+image.png
+display inblock = utiliza todo o espaço em branco da caixa
+display inline = Dimunui a caixa para o tamanho de seu cotneudo

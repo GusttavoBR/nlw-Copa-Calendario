@@ -1,0 +1,16 @@
+function soma(a, b) {
+  return a + b
+}
+soma(22 + 2)
+24
+
+Objetos = 
+const person = {
+  age: 18,
+  drive: function() {
+
+  }
+}
+
+usando o objeto = 
+person.drive()
